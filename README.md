@@ -18,7 +18,7 @@ Summary of the study:
 
 2) Individuals seem more interested in younger people.
 
-3) The race of the partners seems to influence the probability of the match, especially when both partners are of African-American origin.
+3) The race of the partners seems to influence the probability of the match.
 
 4) Among the attributes, the attractiveness variable is the most decisive in making the decision whether or not to want to see the partner again. The variable being fun is also very important, and we observe that even conditional on the variable of attractiveness, the variable "fun" continues to have a great influence on decision-making (this means that even if the partner is considered attractive, it is expected to be interesting). The other attribute variables seem to have little influence on the decision conditional on the attractiveness variable, even if the intelligence and sincerity variables seem to play a discriminating role among individuals well assessed in attractiveness.
 
