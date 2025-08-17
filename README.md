@@ -25,6 +25,8 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Summary of the study](#Summary-of-the-study)
+- [File descriptions](#File-descriptions)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
